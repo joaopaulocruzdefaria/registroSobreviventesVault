@@ -49,7 +49,6 @@ Um administrador insere informações como nome, idade, habilidades e status dos
 
 *Saída esperada:*
 
-plaintext
 Nome: Pedro, Idade: 21, Identificador: 123, Status: Ativo
 Habilidades: [Engenharia, Medicina, Combate]
 
@@ -66,7 +65,6 @@ Informações sobre os recursos do Vault são cadastradas:
 
 *Saída esperada:*
 
-plaintext
 Recursos do Vault:
 Nome: Água, Quantidade: 100
 Nome: Comida, Quantidade: 20
@@ -79,7 +77,6 @@ Cadastro conjunto de recursos e sobreviventes:
 
 *Saída esperada:*
 
-plaintext
 Sobreviventes do Vault:
 Nome: Pedro, Idade: 21, Identificador: 123, Status: Ativo
 Habilidades: [Engenharia, Medicina, Combate]
@@ -99,7 +96,6 @@ Permite criar e monitorar missões para buscar suprimentos:
 
 *Saída esperada:*
 
-plaintext
 Nome da Missão: Mike Papa
 Descrição: Buscar suprimentos e roupas.
 Local: Bairro Sidil
@@ -112,7 +108,6 @@ Adiciona e remove sobreviventes de missões:
 
 *Saída esperada:*
 
-plaintext
 Sobreviventes da missão Mike Papa:
 Pedro, Idade: 21, Identificador: 123, Status: Ativo
 
