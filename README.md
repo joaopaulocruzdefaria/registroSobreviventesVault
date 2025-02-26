@@ -1,10 +1,9 @@
----
 
 ## Sistema de Gerenciamento de Sobreviventes e Recursos
 
 ## Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG
 
-*Aluno:* João Paulo Cruz de Faria
+Aluno: João Paulo Cruz de Faria
 
 ---
 
