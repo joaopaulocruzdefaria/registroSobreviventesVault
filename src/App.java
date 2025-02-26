@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
         Vault vault = new Vault();
         int option;
-        Scanner scanner1 = new Scanner(System.in);
+        // Scanner scanner1 = new Scanner(System.in);
         do {
             System.out.println("1 - Cadastrar Sobrevivente");
             System.out.println("2 - Adicionar habilidade a um sobrevivente");
